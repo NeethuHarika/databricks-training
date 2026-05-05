@@ -1,1 +1,13 @@
+Tables created successfully:
+Department
+Employee
+Project
 
+Data inserted successfully into:
+Department
+Employee
+Project
+
+Additional records inserted to test:
+Employee without department
+Project without department
